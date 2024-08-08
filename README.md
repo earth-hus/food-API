@@ -14,3 +14,9 @@ Base, endpoint, query value (additional parameters of request), and if I want to
 
 ![Alt text](images/s1.png)
 ![Alt text](images/s2.png)
+
+
+
+https://github.com/user-attachments/assets/6bad5130-3dfc-49df-867c-db479ffba2df
+
+
